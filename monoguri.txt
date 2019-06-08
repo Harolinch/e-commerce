@@ -1,0 +1,2 @@
+const MONGODB_URI = 'mongodb+srv://harolinch:harolinch@cluster0-bfzip.mongodb.net/shop?retryWrites=true&w=majority';
+api_key: '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'
